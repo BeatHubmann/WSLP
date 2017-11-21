@@ -39,6 +39,8 @@
 
 #### Math
 
+* [Linear algebra explained in four pages](docs/linear_algebra_in_4_pages.pdf)
+* [No bullshit guide to linear algebra](https://gumroad.com/l/noBSLA)
 * [Repetitorium Höhere Mathematik (Binomi)](https://www.binomi.de/epages/13038024.sf/de_DE/?ObjectPath=/Shops/13038024/Products/HM-34-2)
 * [Repetitorium der Linearen Algebra, Teil 1 (Binomi)](https://www.binomi.de/epages/13038024.sf/de_DE/?ObjectPath=/Shops/13038024/Products/LA1-40-3) (gibt auch Teil 2)
 * [Repetitorium der Analysis, Teil 1 (Binomi)](https://www.binomi.de/epages/13038024.sf/de_DE/?ObjectPath=/Shops/13038024/Products/AN1-50-2) (gibt auch Teil 2)
