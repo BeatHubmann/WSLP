@@ -1,5 +1,6 @@
 [Pretty Index](https://beathubmann.github.io/WS-Learn/)
-[Index](index.md)
+
+[Github Index](index.md)
 
 # WS-Learn
 Additional resources for Workshop Lernplanung HS 2017, D-PHYS / D-MATH @ETHZ
