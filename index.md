@@ -47,5 +47,4 @@
 * [Tutorium Analysis 2 und Lineare Algebra 2 (Springer)](https://link.springer.com/book/10.1007/978-3-642-54713-3) (access mit ETH-login)
 
 #### Legal stuff
-* [Readme/Disclaimer/Copyright](README.md)
-* [License](LICENSE)
+* [Readme/Disclaimer/Copyright/License](README.md)
