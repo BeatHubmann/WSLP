@@ -1,5 +1,6 @@
 # WS-Learn
-Additional information and resources for Workshop Lernplanung HS 2017, D-PHYS / D-MATH @ETHZ
+Additional resources for Workshop Lernplanung HS 2017, D-PHYS / D-MATH @ETHZ
+[Main Index](index.md)
 
 ## Disclaimer / Copyright
 Although it may claim otherwise, this website does not offer legal, medical, psychiatric, veterinary, gynecological, archaeological, astronomical, astrological, ontological, paleontological, philosophical, axiological, audiological, bacteriological, mineralogical, criminological, terminological, dermatological, ecclesiastical, campanological, phrenological, phonological, technological, hematological, campanological or any other -ogical counsel.
