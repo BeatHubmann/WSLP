@@ -46,7 +46,7 @@
 #### Math
 
 * [No bullshit guide to linear algebra (Minireference)](https://gumroad.com/l/noBSLA)
-	* [Free preview (nBSg2LA)](docs/noBSguide2LA_preview.pdf)
+	* [Free preview](docs/noBSguide2LA_preview.pdf)
 * [Repetitorium Höhere Mathematik (Binomi)](https://www.binomi.de/epages/13038024.sf/de_DE/?ObjectPath=/Shops/13038024/Products/HM-34-2)
 	* [Probeseiten](http://pdf.binomi.de/ProbeseitenHoeMa.pdf)
 * [Repetitorium der Linearen Algebra, Teil 1 (Binomi)](https://www.binomi.de/epages/13038024.sf/de_DE/?ObjectPath=/Shops/13038024/Products/LA1-40-3) (gibt auch Teil 2)
