@@ -49,6 +49,8 @@
 * [Repetitorium Höhere Mathematik (Binomi)](https://www.binomi.de/epages/13038024.sf/de_DE/?ObjectPath=/Shops/13038024/Products/HM-34-2)
 * [Repetitorium der Linearen Algebra, Teil 1 (Binomi)](https://www.binomi.de/epages/13038024.sf/de_DE/?ObjectPath=/Shops/13038024/Products/LA1-40-3) (gibt auch Teil 2)
 * [Repetitorium der Analysis, Teil 1 (Binomi)](https://www.binomi.de/epages/13038024.sf/de_DE/?ObjectPath=/Shops/13038024/Products/AN1-50-2) (gibt auch Teil 2)
+* [Das Gelbe Rechenbuch Band 1-3](http://www.das-gelbe-rechenbuch.de)
+	* [Leseprobe: Eigenwerte](http://www.das-gelbe-rechenbuch.de/download/Eigenwerte.pdf)
 * [Lernen aus Musterlösungen zur Analysis und Linearen Algebra (Springer)](https://link.springer.com/book/10.1007/978-3-658-02353-9) (access mit ETH-login)
 * [Tutorium Analysis 1 und Lineare Algebra 1 (Springer)](https://link.springer.com/book/10.1007/978-3-642-37366-4) (access mit ETH-login)
 * [Tutorium Analysis 2 und Lineare Algebra 2 (Springer)](https://link.springer.com/book/10.1007/978-3-642-54713-3) (access mit ETH-login)
