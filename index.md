@@ -40,8 +40,9 @@
 
 ### Buchempfehlungen
 #### Lernen, Zeitplanung
-* [Martin Krengel: Bestnote](https://www.amazon.de/dp/394119366X/)
-* [Martin Krengel: Golden Rules](https://www.amazon.de/dp/3941193449/)
+* [Bestnote](https://www.amazon.de/dp/394119366X/)
+* [Golden Rules](https://www.amazon.de/dp/3941193449/)
+* [How to Study for a Mathematics Degree](https://www.amazon.de/dp/0199661324/)
 
 #### Math
 
@@ -56,6 +57,8 @@
 * [Lernen aus Musterlösungen zur Analysis und Linearen Algebra (Springer)](https://link.springer.com/book/10.1007/978-3-658-02353-9) (access mit ETH-login)
 * [Tutorium Analysis 1 und Lineare Algebra 1 (Springer)](https://link.springer.com/book/10.1007/978-3-642-37366-4) (access mit ETH-login)
 * [Tutorium Analysis 2 und Lineare Algebra 2 (Springer)](https://link.springer.com/book/10.1007/978-3-642-54713-3) (access mit ETH-login)
+* [Linear Algebra Done Right](https://link.springer.com/book/10.1007/978-3-319-11080-6) (access mit ETH-login)
+* [Understanding Analysis](https://link.springer.com/book/10.1007/978-1-4939-2712-8) (access mit ETH-login)
 
 #### Legal stuff
 * [Readme/Disclaimer/Copyright/License](README.md)
