@@ -9,7 +9,7 @@
 * [Fachliste](docs/WSLP_Fachliste_2017.pdf)
 * [Wochenplan](docs/WSLP_Wochenplan_2017_V2.pdf)
 * [Selbstbeurteilung Arbeitsstil](docs/WSLP_Arbeitsstil_2017.pdf)
-* [Tipps gegen den Lernkater](http://www.infozentrum.ethz.ch/uploads/user_upload/protected/ISBN3-9522538-0-4.pdf) nur aus ETHZ-Netz (local oder VPN)
+* [Tipps gegen den Lernkater](http://www.infozentrum.ethz.ch/uploads/user_upload/protected/ISBN3-9522538-0-4.pdf) (access aus ETHZ-Netz)
 
 
 ### Zeitplanung
@@ -42,9 +42,9 @@
 * [Repetitorium Höhere Mathematik (Binomi)](https://www.binomi.de/epages/13038024.sf/de_DE/?ObjectPath=/Shops/13038024/Products/HM-34-2)
 * [Repetitorium der Linearen Algebra, Teil 1 (Binomi)](https://www.binomi.de/epages/13038024.sf/de_DE/?ObjectPath=/Shops/13038024/Products/LA1-40-3) (gibt auch Teil 2)
 * [Repetitorium der Analysis, Teil 1 (Binomi)](https://www.binomi.de/epages/13038024.sf/de_DE/?ObjectPath=/Shops/13038024/Products/AN1-50-2) (gibt auch Teil 2)
-* [Lernen aus Musterlösungen zur Analysis und Linearen Algebra (Springer)](https://link.springer.com/book/10.1007/978-3-658-02353-9)
-* [Tutorium Analysis 1 und Lineare Algebra 1 (Springer)](https://link.springer.com/book/10.1007/978-3-642-37366-4)
-* [Tutorium Analysis 2 und Lineare Algebra 2 (Springer)](https://link.springer.com/book/10.1007/978-3-642-54713-3)
+* [Lernen aus Musterlösungen zur Analysis und Linearen Algebra (Springer)](https://link.springer.com/book/10.1007/978-3-658-02353-9) (access mit ETH-login)
+* [Tutorium Analysis 1 und Lineare Algebra 1 (Springer)](https://link.springer.com/book/10.1007/978-3-642-37366-4) (access mit ETH-login)
+* [Tutorium Analysis 2 und Lineare Algebra 2 (Springer)](https://link.springer.com/book/10.1007/978-3-642-54713-3) (access mit ETH-login)
 
 #### Legal stuff
 * [Readme/Disclaimer/Copyright](README.md)
