@@ -9,6 +9,7 @@
 * [Fachliste](docs/WSLP_Fachliste_2017.pdf)
 * [Wochenplan](docs/WSLP_Wochenplan_2017_V2.pdf)
 * [Selbstbeurteilung Arbeitsstil](docs/WSLP_Arbeitsstil_2017.pdf)
+* [Tipps gegen den Lernkater](http://www.infozentrum.ethz.ch/uploads/user_upload/protected/ISBN3-9522538-0-4.pdf) nur aus ETHZ-Netz (local oder VPN)
 
 
 ### Zeitplanung
