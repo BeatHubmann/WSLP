@@ -19,5 +19,5 @@
 
 
 #### Legal stuff
-[Readme/Disclaimer/Copyright](README.md)
-[License](LICENSE)
+* [Readme/Disclaimer/Copyright](README.md)
+* [License](LICENSE)
