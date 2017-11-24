@@ -65,5 +65,8 @@
 * [Linear Algebra Done Right](https://link.springer.com/book/10.1007/978-3-319-11080-6) (access mit ETH-login)
 * [Understanding Analysis](https://link.springer.com/book/10.1007/978-1-4939-2712-8) (access mit ETH-login)
 
+### Videos
+* [Gilbert Strang: Lectures on Linear Algebra (MIT)](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
+
 #### Legal stuff
 * [Readme/Disclaimer/Copyright/License](README.md)
