@@ -29,6 +29,7 @@
 * [Checkliste Zusammenfassungen](docs/Checkliste-Gute-Zusammenfassungen.pdf)
 * [Grundlagenartikel 'Spaced Repetition'](https://www.gwern.net/Spaced%20repetition)
 * [Effective learning: Twenty rules of formulating knowledge](https://www.supermemo.com/en/articles/20rules)
+* [Siraj Raval: How to Learn Advanced Concepts Fast](https://youtu.be/nxWfZP6eslM)
 
 ### Prüfungsnachbearbeitung
 * [Fragebogen test post-mortem](docs/Test-post-mortem.pdf)
