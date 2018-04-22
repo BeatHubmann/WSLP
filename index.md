@@ -22,6 +22,7 @@
 
 ### Arbeits- und Lerntechnik
 
+* [Thomas Frank: The Ultimate Guide to Studying For Tests and Exams](https://collegeinfogeek.com/final-exams-ultimate-guide/)
 * [Wie arbeite ich eine Vorlesung nach?](docs/Nacharbeiten.pdf)
 * [Wie bearbeite ich ein Uebungsblatt?](docs/Uebungsblaetter.pdf)
 * [Selbsttest Lernen](docs/Lerntest-Was-beim-Lernen-falsch-laeuft-Bestnote.pdf)
