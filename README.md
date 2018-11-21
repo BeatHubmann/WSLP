@@ -1,4 +1,4 @@
-[Pretty Index](https://beathubmann.github.io/WS-Learn/)
+[Pretty Index](https://beathubmann.github.io/WSLP/)
 
 [Github Index](index.md)
 
