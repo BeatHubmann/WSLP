@@ -1,13 +1,12 @@
-# Materialsammlung zu den Workshops Lernplanung HS 2017, D-PHYS / D-MATH @ETHZ
+# Materialsammlung zu den Workshops Lernplanung D-PHYS / D-MATH @ETHZ
 
 
 ### Workshop Material von ETH Zürich Student Services
 * [Leitfaden Lernplanung](docs/WSLP_Leitfaden.pdf)
-* [Grosser Lernplan mit Statusliste und Anleitung als XLSX](docs/WSLP_6er_Lernplan_Statusliste_WS_2018.xlsx)
-  * [Grosser Lernplan als PDF](docs/WSLP_6er_Lernplan_WS_2018.pdf)
+* [Grosser Lernplan mit Statusliste und Anleitung als XLSX](docs/WSLP_Lernplan_Statusliste_6er_WS_2018_2019.xlsx)
   * [Statusliste als PDF](docs/WSLP_6er_Statusliste_WS_2018.pdf)
-* [Fachliste](docs/WSLP_Fachliste_2017.pdf)
-* [Wochenplan](docs/WSLP_Wochenplan_2017_V2.pdf)
+* [Fachliste](docs/WSLP_Fachliste.pdf)
+* [Wochenplan](docs/WSLP_Wochenplan.pdf)
 * [Selbstbeurteilung Arbeitsstil](docs/WSLP_Arbeitsstil_2017.pdf)
 * [Uebersicht Lerntechniken](docs/Lerntechniken.pdf)
 * [Tipps gegen den Lernkater](http://www.infozentrum.ethz.ch/uploads/user_upload/protected/ISBN3-9522538-0-4.pdf) (access aus ETHZ-Netz)

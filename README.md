@@ -3,7 +3,7 @@
 [Github Index](index.md)
 
 # WS-Learn
-Additional resources for Workshop Lernplanung HS 2017, D-PHYS / D-MATH @ETHZ
+Additional resources for Workshop Lernplanung D-PHYS / D-MATH @ETHZ
 
 
 ## Disclaimer / Copyright
@@ -13,7 +13,7 @@ Where applicable, sources are as indicated in the respective documents. Informat
 
 ## MIT License
 
-Copyright (c) 2017 ETHZ, Beat Hubmann
+Copyright (c) 2018 ETHZ / Beat Hubmann / authors were so indicated
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
