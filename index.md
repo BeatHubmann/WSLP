@@ -5,6 +5,7 @@
 * [Leitfaden Lernplanung](docs/WSLP_Leitfaden.pdf)
 * [Grosser Lernplan mit Statusliste und Anleitung als XLSX](docs/WSLP_Lernplan_Statusliste_6er_WS_2018_2019.xlsx)
   * [Statusliste als PDF](docs/WSLP_6er_Statusliste_WS_2018.pdf)
+  * [Grosser Lernplan als PDF](docs/WSLP_Lernplan_6er_WS_2018_2019.pdf)
 * [Fachliste](docs/WSLP_Fachliste.pdf)
 * [Wochenplan](docs/WSLP_Wochenplan.pdf)
 * [Selbstbeurteilung Arbeitsstil](docs/WSLP_Arbeitsstil_2017.pdf)
