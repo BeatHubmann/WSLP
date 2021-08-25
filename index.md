@@ -35,18 +35,13 @@
 ### Prüfungsnachbearbeitung
 * [Fragebogen test post-mortem](docs/Test-post-mortem.pdf)
 
-### Math Cheat Sheets
-* [Math and physics concept map](docs/conceptmap.pdf)
-* [Linear algebra explained in four pages](docs/linear_algebra_in_4_pages.pdf)
-* [Mechanics explained in seven pages](docs/mech_in_7_pages.pdf)
-
 ### Buchempfehlungen
 #### Lernen, Zeitplanung
 * [Bestnote](https://www.amazon.de/dp/394119366X/)
 * [Golden Rules](https://www.amazon.de/dp/3941193449/)
 * [How to Study for a Mathematics Degree](https://www.amazon.de/dp/0199661324/)
 
-#### Math
+#### Math and Physics
 
 * [Michaels: Analysis 1](https://www.eth-store.ch/store/product/250746)
 * [Michaels: Analysis 2](https://www.eth-store.ch/store/product/250746)
