@@ -48,6 +48,8 @@
 
 #### Math
 
+* [Michaels: Analysis 1](https://www.eth-store.ch/store/product/250746)
+* [Michaels: Analysis 2](https://www.eth-store.ch/store/product/250746)
 * [No bullshit guide to linear algebra (Minireference)](https://gumroad.com/l/noBSLA)
 	* [Free preview](docs/noBSguide2LA_preview.pdf)
 * [Repetitorium Höhere Mathematik (Binomi)](https://www.binomi.de/epages/13038024.sf/de_DE/?ObjectPath=/Shops/13038024/Products/HM-34-2)
