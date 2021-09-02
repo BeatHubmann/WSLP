@@ -30,7 +30,7 @@
 * [Checkliste Zusammenfassungen](docs/Checkliste-Gute-Zusammenfassungen.pdf)
 * [Grundlagenartikel 'Spaced Repetition'](https://www.gwern.net/Spaced%20repetition)
 * [Effective learning: Twenty rules of formulating knowledge](https://www.supermemo.com/en/articles/20rules)
-* [Thomas Frank: How to Learn Faster with the Feynman Technique (Video)](https://youtu.be/_f-qkGJBPts)
+* [Thomas Frank: How I'm Learning Faster with the Improved Feynman Technique (Video)](https://youtu.be/B8V5EfJLX9U)
 
 ### Prüfungsnachbearbeitung
 * [Fragebogen test post-mortem](docs/Test-post-mortem.pdf)
