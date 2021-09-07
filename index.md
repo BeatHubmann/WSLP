@@ -38,7 +38,7 @@
 
 ### Buchempfehlungen
 #### Lernen, Zeitplanung
-* [Clever lernen](https://www.amazon.de/dp/3456858973/)
+* [Vom Aufschieber zum Lernprofi](https://www.amazon.de/dp/1631019563/)
 * [Bestnote](https://www.amazon.de/dp/394119366X/)
 * [Golden Rules](https://www.amazon.de/dp/3941193449/)
 * [How to Study for a Mathematics Degree](https://www.amazon.de/dp/0199661324/)
