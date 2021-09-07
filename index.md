@@ -46,7 +46,7 @@
 #### Math and Physics
 
 * [Michaels: Analysis 1](https://www.eth-store.ch/store/product/250746)
-* [Michaels: Analysis 2](https://www.eth-store.ch/store/product/250746)
+* [Michaels: Analysis 2](https://www.eth-store.ch/store/product/275418)
 * [Nipp: Lineare Algebra](https://www.eth-store.ch/store/product/239525)
 * [Savov: No Bullshit Guide to Linear Algebra](https://gumroad.com/l/noBSLA)
 	* [Free preview & sample chapter (152 pages)](https://minireference.com/static/excerpts/noBSLA_v2_preview.pdf)
