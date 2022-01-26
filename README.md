@@ -13,7 +13,7 @@ Where applicable, sources are as indicated in the respective documents. Informat
 
 ## MIT License
 
-Copyright (c) 2021 Beat Hubmann / ETHZ / authors were so indicated
+Copyright (c) 2022 Beat Hubmann / ETHZ / cited authors where known
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
