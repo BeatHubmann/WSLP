@@ -22,14 +22,21 @@
 
 ### Arbeits- und Lerntechnik
 
+#### Allgemein
 * [Thomas Frank: The Ultimate Guide to Studying For Tests and Exams](https://collegeinfogeek.com/final-exams-ultimate-guide/)
 * [Wie arbeite ich eine Vorlesung nach?](docs/Nacharbeiten.pdf)
 * [Wie bearbeite ich ein Uebungsblatt?](docs/Uebungsblaetter.pdf)
 * [Selbsttest Lernen](docs/Lerntest-Was-beim-Lernen-falsch-laeuft-Bestnote.pdf)
 * [Beispiel 10-Schritt-Lernsystem](docs/10-Schritt-Lernsystem-Poster.pdf)
 * [Checkliste Zusammenfassungen](docs/Checkliste-Gute-Zusammenfassungen.pdf)
-* [Grundlagenartikel 'Spaced Repetition'](https://www.gwern.net/Spaced%20repetition)
+
+#### Spaced Repetition
+* [Grundlagenartikel _Spaced Repetition_](https://www.gwern.net/Spaced%20repetition)
 * [Effective learning: Twenty rules of formulating knowledge](https://www.supermemo.com/en/articles/20rules)
+* [Augmenting Long-term memory](http://augmentingcognition.com/ltm.html)
+* [Using spaced repetition systems to see through a piece of mathematics](https://cognitivemedium.com/srs-mathematics)
+
+#### The Feynman Technique
 * [Thomas Frank: How to Learn Faster with the Feynman Technique (Video)](https://youtu.be/_f-qkGJBPts)
 * [Thomas Frank: How I'm Learning Faster with the Improved Feynman Technique (Video)](https://youtu.be/B8V5EfJLX9U)
 
